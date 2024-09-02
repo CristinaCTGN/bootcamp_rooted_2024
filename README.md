@@ -1,8 +1,7 @@
-# Hardware Hacking ES Comunidad
+# Hardware Hacking Day
 !["logo oficial"](assets/logoficial.png)
 
-- Discord: https://discord.gg/wkWr6Dj46D 
-- Telegram: https://t.me/hardwarehackinges
+*DISCLAIMER:* Materiales resumidos de la comunidad de Hardware Hacking ES. Formalmente, donde se harán actualizaciones será en el github principal, pero en éste repo os pasamos los contenidos que vimos el día del Hardware Hacking Day. En la carpeta Assets del repositorio tenéis manuales y más materiales. Incluso el repositorio principal tiene partes en WIP (igual que éste, como los protocolos que quedan por documentar).
 
 # Índice   
 - n1. [Fundamentos Teóricos](#id1)
